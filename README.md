@@ -1,0 +1,2 @@
+# spaidex
+SpAI DeFI
